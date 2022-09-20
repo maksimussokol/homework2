@@ -8,7 +8,7 @@ if (f < 100)
 }
 else
 {
-    string a = f.ToString();
+    string a = f.ToString(); // этот оператор я подсмотрел))
 
 
 
